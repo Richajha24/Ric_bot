@@ -2,28 +2,76 @@
 #dictionary of all the data that the bot needs to function
 #first category chapter 1 
 #@chapterf_name = "The Fundamental unit of life"
-data={
-      "chapter_5": {
-        "name": "The Fundamental unit of life",
+
+data = {
+    "chapter_5": {
+        "name": "The Fundamental Unit of Life",
         "topics": {
-            "5.1 - What are Living OrganismsMade Up of?":
-              {
-                "answer": "Living organisms are made up of cells, which are the basic units of life. Cells can be unicellular (consisting of a single cell) or multicellular (consisting of multiple cells).",
-                "activity": "Activity -5.1 • Let us take a small piece from an onion bu With the help of a pair of forceps,we can peel off the skin (called epidermis) from the concave side (inner layer) of the onion. This layer can be placed on a glass slide and observed under a microscope. We can see that the onion skin is made up of many small units called cells. We can try preparing temporary mounts of peels of onions of different sizes.What do we observe? Do we see similar structures or different structures?",
-                "What are these structures?" : "These structures look similar to each other. Together they form a big structure like anonion bulb! We find from this activity that onion bulbs of different sizes have similar small structures visible under a microscope. The cells of the onion peel will all look the same, regardless of the size of the onion they came from. These small structures that we see are the basic building units of the onion bulb.  These structures are called cells. Not only onions, but all organisms that we observe around are made up of cells. However, there are also single cells that live on their own.Chlamydomonas, Paramecium, bacteria, Amoeba, Euglena and Saccharomyces cerevisiae are unicellular organisms, while multicellular organisms like plants, animals and some fungi are made of many cells, and every multicellular organism develops from a single cell called a zygote.",                   
-                "history of cell discovery" : "Cells were first discovered by Robert Hooke in 1665 in cork using a primitive microscope; Leeuwenhoek (1674) observed free-living cells in pond water; Robert Brown (1831) discovered the nucleus; Purkinje (1839) coined the term protoplasm; Schleiden (1838) and Schwann (1839) proposed the cell theory stating that all plants and animals are composed of cells and that the cell is the basic unit of life; Virchow (1855) added that all cells arise from pre-existing cells; and the electron microscope (1940) enabled detailed study of cell structure and organelles.",
-                " Activity 5.2": "We can try preparing temporary mounts of leaf peels, tip of roots of onion or even peels of onions of different sizes, and after performing the above activity, let us see what the answers to the following questions would be: (a) Do all cells look alike in terms of shape and size? (b) Do all cells look alike in structure? (c) Could we find differences among cells from different parts of a plant body? (d) What similarities could we find? Some organisms can also have cells of different kinds, and the following picture depicts some cells from the human body.",
-                "Explaination of Activity 5.2":"Some organisms can also have cells of different kinds and the following picture depicts some cells from the human body; the shape and size of cells are related to the specific function they perform, some cells like Amoeba have changing shapes while in some cases the cell shape could be more or less fixed and peculiar for a particular type of cell, for example nerve cells have a typical shape; each living cell has the capacity to perform certain basic functions characteristic of all living forms, and just as there is division of labour in multicellular organisms such as human beings where different parts of the body perform different functions like the heart pumping blood and the stomach digesting food, similarly division of labour is also seen within a single cell where specific components known as cell organelles perform special functions such as making new material and clearing waste, enabling the cell to live and perform all its functions, and these organelles together constitute the basic unit called the cell, with all cells found to have the same organelles regardless of their function or the organism they are found in.",
-                 },
-            "5.2 What is a Cell Made Up of?What is the Structural Organisation of a Cell?":{
-                "Answer":"If we study a cell under a microscope, we would come across three features in almost every cell—plasma membrane, nucleus and cytoplasm—and all activities inside the cell and interactions of the cell with its environment are possible due to these features, so let us see how.",
-                "5.2.1 PLASMA MEMBRANE O R CELL MEMBRANE" : "This is the outermost covering of the cell that separates the contents of the cell from its external environment. The plasma membrane allows or permits the entry and exit of some materials in and out of the cell. It also prevents movement of some other materials. The cell membrane, therefore, is called a selectively permeable membrane. How does the movement of substances take place into the cell? How do substances move out of the cell? Some substances like carbon dioxide or oxygen can move across the cell membrane by a process called diffusion. We have studied the process of diffusion in earlier chapters. We saw that there is spontaneous movement of a substance from a region of high concentration to a region where its concentration is low. Something similar to this happens in cells when, for example, some substance like CO2 (which is cellular waste and requires to be excreted out by the cell) accumulates in high concentrations inside the cell. In the cell’s external environment, the concentration of CO2 is low as compared to that inside the cell. As soon as there is a difference of concentration of CO2 inside and outside a cell, CO2 moves out of the cell, from a region of high concentration, to a region of low concentration outside the cell by the process of diffusion. Similarly, O2 enters the cell by the process of diffusion when the level or concentration of O2 inside the cell decreases. Thus, diffusion plays an important role in gaseous exchange between the cells as well as the cell and its external environment.Water also obeys the law of diffusion. The movement of water molecules through such a selectively permeable membrane is called osmosis. The movement of water across the plasma membrane is also affected by the amount of substance dissolved in water. Thus, osmosis is the net diffusion of water across a selectively permeable membrane toward a higher solute concentration.",
-                "What will happen if we put an animal cell or a plant cell into a solution of sugar or salt in water? ": "One of the following three things could happen: 1. If the medium surrounding the cell has a higher water concentration than the cell, meaning that the outside solution is very dilute, the cell will gain water by osmosis. Such a solution is known as a hypotonic solution. Water molecules are free to pass across the cell membrane in both directions, but more water will come into the cell than will leave. The net (overall) result is that water enters the cell. The cell is likely to swell up. 2. If the medium has exactly the same water concentration as the cell, there will be no net movement of water across the cell membrane. Such a solution is known as an isotonic solution. Water crosses the cell membrane in both directions, but the amount going in is the same as the amount going out, so there is no overall movement of water. The cell will stay the same size. 3. If the medium has a lower concentration of water than the cell, meaning that it is a very concentrated solution, the cell will lose water by osmosis. Such a solution is known as a hypertonic solution. Thus, osmosis is a special case of diffusion through a selectively permeable membrane." ,
-                "Activity 5.3 " : " (a) Remove the shell of an egg by dissolving it in dilute hydrochloric acid. The shell is mostly calcium carbonate. A thin outer skin now encloses the egg. Put the egg in pure water and observe after 5 minutes. What do we observe? The egg swells because water passes into it by osmosis. (b) Place a similar de-shelled egg in a concentrated salt solution and observe for 5 minutes. The egg shrinks. Why? Water passes out of the egg solution into the salt solution because the salt solution is more concentrated. We can also try a similar activity with dried raisins or apricots.",
-                "Activity 5.4  "  :  " Put dried raisins or apricots in plain water and leave them for some time. Then place them into a concentrated solution of sugar or salt. You will observe the following: (a) Each gains water and swells when placed in water. (b) However, when placed in the concentrated solution it loses water, and consequently shrinks.",
-                "Uses of Plasma Membrane , Why it is flexible?" : "Unicellular freshwater organisms and most plant cells tend to gain water through osmosis. Absorption of water by plant roots is also an example of osmosis. Thus, diffusion is important in exhange of gases and water in the life of a cell. In additions to this, the cell also obtains nutrition from its environment. Different molecules move in and out of the cell through a type of transport requiring use of energy. The plasma membrane is flexible and is made up of organic molecules called lipids and proteins. However, we can observe the structure of the plasma membrane only through an electron microscope. The flexibility of the cell membrane also enables the cell to engulf in food and other material from its external environment. Such processes are known as endocytosis. Amoeba acquires its food through such processes.",
-                }
-                
+            "5.1": {
+                "title": "What are Living Organisms Made Up of?",
+                "qa": [
+                    {
+                        "question": "What are cells?",
+                        "answer": [
+                            "Cells are the basic units of life.",
+                            "They can be unicellular (single-celled) or multicellular (many-celled)."
+                        ]
+                    },
+                    {
+                        "question": "What did the discovery of magnifying lenses lead to?",
+                        "answer": [
+                            "The discovery of magnifying lenses led to the development of microscopes.",
+                            "This further led to the discovery of the microscopic world.",
+                            "Robert Hooke discovered cells in 1665 using a primitive microscope."
+                        ]
+                    },
+                    {
+                        "question": "Who discovered the cell?",
+                        "answer": [
+                            "Cells were first discovered by Robert Hooke in 1665.",
+                            "He observed cork using a primitive microscope."
+                        ]
+                    },
+                    {
+                        "question": "Who discovered free-living cells in pond water?",
+                        "answer": [
+                            "Leeuwenhoek (1674) observed free-living cells in pond water."
+                        ]
+                    },
+                    {
+                        "question": "Who discovered the nucleus?",
+                        "answer": [
+                            "Robert Brown discovered the nucleus in 1831."
+                        ]
+                    },
+                    {
+                        "question": "Who coined the term protoplasm?",
+                        "answer": [
+                            "Purkinje coined the term 'protoplasm' in 1839."
+                        ]
+                    },
+                    {
+                        "question": "Who proposed the cell theory?",
+                        "answer": [
+                            "Schleiden (1838) and Schwann (1839) proposed the cell theory.",
+                            "They stated that all plants and animals are composed of cells.",
+                            "They also stated that the cell is the basic unit of life."
+                        ]
+                    },
+                    {
+                        "question": "Who added that all cells arise from pre-existing cells?",
+                        "answer": [
+                            "Virchow (1855) stated that all cells arise from pre-existing cells."
+                        ]
+                    },
+                    {
+                        "question": "What enabled detailed study of cell structure?",
+                        "answer": [
+                            "The discovery of the electron microscope in 1940 enabled detailed study of cell structure and organelles."
+                        ]
+                    }
+                ]
+            }
         }
     }
 }
