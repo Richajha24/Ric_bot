@@ -190,6 +190,14 @@ data = {
                             "3. It facilitates communication between cells through receptor proteins.",
                             "4. It helps maintain the cell's shape and provides structural support."
                         ]
+                    },
+                    {
+                        "question":"What is the structure of the plasma membrane?",
+                        "answer":[
+                            "The plasma membrane is composed of a phospholipid bilayer, which consists of two layers of phospholipids with their hydrophobic tails facing inward and their hydrophilic heads facing outward.",
+                            "Embedded within the phospholipid bilayer are various proteins that serve different functions, such as transport proteins, receptor proteins, and structural proteins.",
+                            "The plasma membrane also contains cholesterol molecules that help maintain its fluidity and stability."
+                        ]
                     }
                 ]
             }
