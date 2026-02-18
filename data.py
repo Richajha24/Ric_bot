@@ -208,7 +208,157 @@ data = {
                             "3. Endocytosis: This is a process where the cell engulfs large particles or fluids by forming a vesicle around them and bringing them into the cell.",
                             "4. Exocytosis: This is a process where substances are packaged into vesicles and released from the cell."
                         ]
+                    },
+                    {
+                        "question" : "Why is plasma membrane selectively permeable membrane?",
+                        "answer":[
+                            "The plasma membrane allows or permits the entry and exit of some materials in and out of the cell."
+                            "It also prevents movement of some other materials."
+                            "The cell membrane, therefore, is called a selectively permeable membrane."
+                        ]
+                    },
+                    {
+                        "question":"How does the movement of substance takes place into the cell?",
+                        "answer":[
+                            "Some substances like carbon dioxide or oxygen can move across the cell membrane by a process called diffusion.",
+                            "We saw that there is spontaneous movement of a substance from a region of high concentration to a region where its concentration is low.",
+                            "This process is called diffusion.",
+                            "Water can also move across the cell membrane by diffusion, but it is a special type of diffusion called osmosis.",
+                            "In osmosis, water moves from a region of low solute concentration to a region of high solute concentration through a selectively permeable membrane.",
+                            "Different molecules move in and out of the cell through a type of transport requiring use of energy.This is called active transport.",
+                            "Endocytosis: This is a process where the cell engulfs large particles or fluids by forming a vesicle around them and bringing them into the cell.",
+                            "Exocytosis: This is a process where substances are packaged into vesicles and released from the cell."
+                        ]
+                    },
+                    {
+                        "question":"What is Endocytosis and Exocytosis?",
+                        "answer":[
+                            "Endocytosis is a process where the cell engulfs large particles or fluids by forming a vesicle around them and bringing them into the cell.",
+                            "Exocytosis is a process where substances are packaged into vesicles and released from the cell."
+                        ]
+                    },
+                    {
+                    "question":"What is plasma membrabne made up of?",
+                    "answer":[
+                        "The plasma membrane is flexible and is made up of organic molecules called lipids and proteins. The main components are phospholipids, proteins and cholesterol.",
+                    ]
+                    },
+                    {
+                    "question":"What is the advantage of flexibility of plasma membrane?",
+                    "answeer":[
+                        "The flexibility of the cell membrane also enables the cell to engulf in food and other material from its external environment. Such processes are known as endocytosis. Amoeba acquires its food through such processes.",
+                    ]
+                    },
+                    {
+                        "question":"How does CO2 moves across the cell membrane?",
+                        "answer":[
+                            "Some substance like CO2 (which is cellular waste and requires to be excreted out by the cell) accumulates in high concentrations inside the cell.",
+                            "In the cell's external environment, the concentration of CO2 is low as compared to that inside the cell.",
+                            "As soon as there is a difference of concentration of CO2 inside and outside a cell, CO2 moves out of the cell, from a region of high concentration, to a region of low concentration outside the cell by the process of diffusion.",
+
+                        ]
+                    },
+                    {
+                        "question":"How does water move across the cell membrane?",
+                        "answer":[
+                            "Water can also move across the cell membrane by diffusion, but it is a special type of diffusion called osmosis.",
+                            "In osmosis, water moves from a region of low solute concentration to a region of high solute concentration through a selectively permeable membrane."
+                        ]
+                    },
+                    {
+                        "question":"How do different molecules move in and out of the cell?",
+                        "answer":[
+                            "Different molecules move in and out of the cell through a type of transport requiring use of energy.This is called active transport.",
+                            "Endocytosis: This is a process where the cell engulfs large particles or fluids by forming a vesicle around them and bringing them into the cell.",
+                            "Exocytosis: This is a process where substances are packaged into vesicles and released from the cell."
+                        ]
+                    },
+                    {
+                        "question":"How does O2 moves across the cell membrane?",
+                        "answer":[
+                            "Oxygen (O2) is a vital molecule for cellular respiration and is required by cells to produce energy.",
+                            "Oxygen can move across the cell membrane through a process called diffusion.",
+                            "In diffusion, oxygen molecules move from an area of higher concentration (outside the cell) to an area of lower concentration (inside the cell) until equilibrium is reached."
+                        ]
+                    },
+                    {
+                        "question":"Why is diffusion important for cells?",
+                        "answer":[
+                            "osmosis is a special case of diffusion through a selectively permeable membrane.",
+                            "Unicellular freshwater organisms and most plant cells tend to gain water through osmosis. Absorption of water by plant roots is also an example of osmosis.",
+                            "Thus, diffusion is important in exhange of gases and water in the life of a cell. In additions to this, the cell also obtains nutrition from its environment. "
+                        ]
+                    },
+                    {
+                        "question":"What are the functions of the plasma membrane?",
+                        "answer":[
+                            "The plasma membrane serves several important functions:",
+                            "1. It acts as a protective barrier, separating the internal environment of the cell from the external environment.",
+                            "2. It regulates the movement of substances in and out of the cell, allowing for selective permeability.",
+                            "3. It facilitates communication between cells through receptor proteins.",
+                            "4. It helps maintain the cell's shape and provides structural support."
+                        ]
+                    },
+                    {
+                        "question":"What are the diffences between passive and active transport?",
+                        "answer":[
+                            "Passive transport is the movement of substances across the cell membrane without the use of energy, while active transport requires energy to move substances against their concentration gradient.",
+                            "In passive transport, substances move from an area of higher concentration to an area of lower concentration, while in active transport, substances move from an area of lower concentration to an area of higher concentration.",
+                            "Examples of passive transport include diffusion and osmosis, while examples of active transport include the sodium-potassium pump and endocytosis."
+                        ]
+                    },
+                    {
+                        "question":"What are the differences between endocytosis and exocytosis?",
+                        "answer":[
+                            "Endocytosis is a process where the cell engulfs large particles or fluids by forming a vesicle around them and bringing them into the cell, while exocytosis is a process where substances are packaged into vesicles and released from the cell.",
+                            "Endocytosis is used for the intake of substances, while exocytosis is used for the release of substances.",
+                            "Examples of endocytosis include phagocytosis (engulfing solid particles) and pinocytosis (engulfing fluids), while examples of exocytosis include the release of neurotransmitters from nerve cells and the secretion of hormones from endocrine cells."
+                        ]
+                    },
+                    {
+                        "question":"What is the differnce between diffusion and osmosis?",
+                        "answer":[
+                            "Diffusion is the movement of molecules from an area of higher concentration to an area of lower concentration, while osmosis is a special type of diffusion that specifically refers to the movement of water across a selectively permeable membrane.",
+                            "In diffusion, any type of molecule can move, while in osmosis, only water molecules move.",
+                            "Diffusion can occur in any medium (gas, liquid, or solid), while osmosis specifically occurs in liquids."
+                        ]
+                    },
+                    {
+                        "question":"What will happen if we put an animal cell or a plant cell into a solution of sugar or salt?",
+                        "answer":[
+                            "One of the following three things could happen:",
+                            "1. If the medium surrounding the cell has a higher water concentration than the cell, meaning that the outside solution is very dilute, the cell will gain water by osmosis. Such a solution is known as a hypotonic solution.",
+                            "Water molecules are free to pass across the cell membrane in both directions, but more water will come into the cell than will leave. The net (overall) result is that water enters the cell. The cell is likely to swell up.",
+                            "2. If the medium has exactly the same water concentration as the cell, there will be no net movement of water across the cell membrane. Such a solution is known as an isotonic solution.",
+                            "Water crosses the cell membrane in both directions, but the amount going in is the same as the amount going out, so there is no overall movement of water. The cell will stay the same size.",
+                            "3. If the medium has a lower concentration of water than the cell, meaning that it is a very concentrated solution, the cell will lose water by osmosis. Such a solution is known as a hypertonic solution.",
+                            "Again, water crosses the cell membrane in both directions, but this time more water leaves the cell than enters it. Therefore the cell will shrink."
+
+                        ]
                     }
+                ]
+            },
+            "5.2.2":{
+                "title":"Cell Wall",
+                "qa":[
+                    {
+                        "question":"What is the cell wall?",
+                        "answer":[
+                            "The cell wall is a rigid layer that surrounds the plasma membrane of certain cells, providing structural support and protection.",
+                            "It is primarily found in plant cells, fungi, and some prokaryotes.",
+                            "The main component of the cell wall in plants is cellulose, while in fungi it is chitin."
+                        ]
+                    },
+                    {
+                        "question":"What are the functions of the cell wall?",
+                        "answer":[
+                            "The cell wall serves several important functions:",
+                            "1. It provides structural support and maintains the shape of the cell.",
+                            "2. It protects the cell from mechanical damage and pathogens.",
+                            "3. It prevents excessive water uptake through osmosis, helping to maintain turgor pressure in plant cells.",
+                            "4. It allows for communication between cells through plasmodesmata (in plants) or pores (in fungi)."
+                        ]
+                    },
                 ]
             }
         }
