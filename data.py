@@ -198,6 +198,16 @@ data = {
                             "Embedded within the phospholipid bilayer are various proteins that serve different functions, such as transport proteins, receptor proteins, and structural proteins.",
                             "The plasma membrane also contains cholesterol molecules that help maintain its fluidity and stability."
                         ]
+                    },
+                    {
+                        "question":"How does the plasma membrane regulate the movement of substances?",
+                        "answer":[
+                            "The plasma membrane regulates the movement of substances through various mechanisms:",
+                            "1. Passive transport: This includes diffusion and osmosis, where substances move from an area of higher concentration to an area of lower concentration without the use of energy.",
+                            "2. Active transport: This requires energy (usually in the form of ATP) to move substances against their concentration gradient, from an area of lower concentration to an area of higher concentration.",
+                            "3. Endocytosis: This is a process where the cell engulfs large particles or fluids by forming a vesicle around them and bringing them into the cell.",
+                            "4. Exocytosis: This is a process where substances are packaged into vesicles and released from the cell."
+                        ]
                     }
                 ]
             }
